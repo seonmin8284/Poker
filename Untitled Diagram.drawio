@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T15:27:35.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="wbO0dmtw6Ion0SLWHZL0" version="15.4.1" type="github"><diagram id="y-EOfLyRayrffuNytPgW" name="Page-1">7Vddb5swFP01ftwUMKTwCIRm0lKpWlWt25sLDngzODOmCfv1s8F8DZJ2WtNKVaVK9T1cG99zrp0DgEF2WHO0S69YjCkwF/EBwBUwTWMBHflPIVWD2BduAyScxDqpB27Ib9zO1GhJYlyMEgVjVJDdGIxYnuNIjDDEOduP07aMjt+6QwmeADcRolP0K4lF2qCOedHjnzBJ0vbNxlLXl6E2WVdSpChm+wEEQwADzphoRtkhwFSR1/LSzLs88rTbGMe5eMoEf/VzvTFu79a3n92rX98XUfSl+GA2qzwgWuqCQbgCziXwAhAGwPeBZ8nnIPSAbwKnBt0QOJauSVQtUZyVeYzVuxYA+vuUCHyzQ5F6upetIbFUZFRGhhw+YC6IJNmjJMklJphK0HuRz/DhaJFGR53sOcwyLHglU9oJrmZbt5ulw32vnbXUWDrQzW5VQrpfkm7pnlI50Kz+A8NwMaEKx7LFdMi4SFnCckTDHvXHZPY5G6aIqin8gYWo9HlBpWBjgvGBiDs1/aOto2+jaHXQa9dBNQiuMSeycsw1tmW5CBhlKo7xFpVUqMw89tTpkmBEUVGQqAEvCW230JStaj2tpaSGlTzCJzg0bH3yEU+wONXO5nx3cEyRIA/jnTy/1Oa71C8mNTxyETxZ6nqqrAxVg4QdI7koBitfK6C/X6A5vl/aC6Zvm2bFvom6rf1HX01v2/e+OltfwdfoKxOe7KtH862X6MOWw5FbCIBjarfgesBztUNwpz970gDt1LDMqBcJ1Q2dD9ige0yvWUEEYcoP3DMhWHbUKAy6lJWCkhwHnf1bPJOR+PugG1MnAWeMxPJcPsKcs2rSobnAt0DoAxcCN6itml9btRr0lrU00rw5wJ8xIpRKH40f92vzJxhpUSLJKeYzamUkjuvL6BkE6Zit2g+EqSCdaENFnLM5O2NGEV/xLP+Ui5ZHw1YD1wau8zZV6Nh9PRXgk1SobyfXqlWw60PxpnWxzng6ZNh/tTa/Lf23Pwz/AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-01T15:34:17.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="lsr-6B8LT8H2-Zq5CBo6" version="15.4.1" type="github">
+  <diagram id="y-EOfLyRayrffuNytPgW" name="Page-1">
+    <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BDkGL1UXGUK9MqZ0ccRs-2" value="포커 게임" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="190" y="40" width="460" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="BDkGL1UXGUK9MqZ0ccRs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=default;endArrow=classic;endFill=1;" parent="1" source="BDkGL1UXGUK9MqZ0ccRs-15" target="BDkGL1UXGUK9MqZ0ccRs-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BDkGL1UXGUK9MqZ0ccRs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=default;endArrow=classic;endFill=1;" parent="1" source="BDkGL1UXGUK9MqZ0ccRs-15" target="BDkGL1UXGUK9MqZ0ccRs-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDkGL1UXGUK9MqZ0ccRs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=default;endArrow=classic;endFill=1;" parent="1" source="BDkGL1UXGUK9MqZ0ccRs-15" target="BDkGL1UXGUK9MqZ0ccRs-33" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="240" />
+              <mxPoint x="230" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDkGL1UXGUK9MqZ0ccRs-15" value="사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BDkGL1UXGUK9MqZ0ccRs-22" value="카드 버리기" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="260" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BDkGL1UXGUK9MqZ0ccRs-31" value="배팅하기" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="260" y="280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BDkGL1UXGUK9MqZ0ccRs-33" value="배팅요구하기" style="ellipse;whiteSpace=wrap;html=1;fontColor=default;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="260" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FhCvCFaldwQa_D8-2yYc-2" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="FhCvCFaldwQa_D8-2yYc-1" target="BDkGL1UXGUK9MqZ0ccRs-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FhCvCFaldwQa_D8-2yYc-3" value="&amp;lt;include&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="FhCvCFaldwQa_D8-2yYc-1" target="BDkGL1UXGUK9MqZ0ccRs-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="190" />
+              <mxPoint x="440" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FhCvCFaldwQa_D8-2yYc-1" value="카드 받기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
