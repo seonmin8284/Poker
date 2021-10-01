@@ -1,2 +1,2 @@
-# COVID
-international COVID-19 vaccine inoculation rate visualization
+# Poker game
+platform for playing poker game
