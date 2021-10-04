@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T15:47:28.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="1L0THl4UTVbPq045kqms" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T15:54:45.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Ih8g9poCVp1UhDEe54Ay" version="15.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="510" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="290" y="1180" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-259" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="210" y="400" width="290" height="260" as="geometry" />
+          <mxGeometry x="110" y="400" width="600" height="770" as="geometry" />
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-258" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="180" y="680" width="510" height="400" as="geometry" />
+          <mxGeometry x="290" y="710" width="420" height="460" as="geometry" />
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="hImkGRq-CrvZqo-nmwHK-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -41,33 +41,34 @@
         <mxCell id="hImkGRq-CrvZqo-nmwHK-182" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hImkGRq-CrvZqo-nmwHK-113" target="hImkGRq-CrvZqo-nmwHK-181" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="740" />
-              <mxPoint x="560" y="740" />
+              <mxPoint x="560" y="760" />
+              <mxPoint x="560" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-212" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hImkGRq-CrvZqo-nmwHK-113" target="hImkGRq-CrvZqo-nmwHK-245" edge="1">
           <mxGeometry x="-0.2683" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="795" />
-              <mxPoint x="370" y="795" />
+              <mxPoint x="500" y="815" />
+              <mxPoint x="370" y="815" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-113" value="&lt;span&gt;배팅했는가&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="450" y="700" width="80" height="80" as="geometry" />
+          <mxGeometry x="460" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hImkGRq-CrvZqo-nmwHK-124" target="hImkGRq-CrvZqo-nmwHK-113" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="680" />
-              <mxPoint x="435" y="740" />
+              <mxPoint x="435" y="670" />
+              <mxPoint x="435" y="760" />
             </Array>
+            <mxPoint x="415" y="690" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-124" value="빅블라인드 다음 플레이어부터 배팅" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="295" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FYAWJQQbmir7iIiX4-CR-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hImkGRq-CrvZqo-nmwHK-170" target="FYAWJQQbmir7iIiX4-CR-7">
           <mxGeometry relative="1" as="geometry" />
@@ -79,15 +80,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-174" value="배팅금액 추합" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="530" y="805" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-214" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hImkGRq-CrvZqo-nmwHK-181" target="hImkGRq-CrvZqo-nmwHK-174" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="895" as="targetPoint" />
+            <mxPoint x="520" y="915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-181" value="배팅 총액 &lt;br&gt;&amp;lt;= 플레이어의 소유 금액" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="570" y="700" width="80" height="80" as="geometry" />
+          <mxGeometry x="570" y="720" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-187" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hImkGRq-CrvZqo-nmwHK-188" target="hImkGRq-CrvZqo-nmwHK-192" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -159,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-245" value="폴드" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="310" y="805" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="825" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-253" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hImkGRq-CrvZqo-nmwHK-251" target="hImkGRq-CrvZqo-nmwHK-238" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -171,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hImkGRq-CrvZqo-nmwHK-251" value="모든플레이어가 배팅했는가" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="330" y="970" width="80" height="80" as="geometry" />
+          <mxGeometry x="330" y="990" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FYAWJQQbmir7iIiX4-CR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FYAWJQQbmir7iIiX4-CR-1" target="hImkGRq-CrvZqo-nmwHK-198">
           <mxGeometry relative="1" as="geometry">
@@ -196,29 +197,43 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FYAWJQQbmir7iIiX4-CR-11" value="배팅 총액 &lt;br&gt;&amp;gt; 기본 판돈" style="rhombus;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="880" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="900" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FYAWJQQbmir7iIiX4-CR-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FYAWJQQbmir7iIiX4-CR-13" target="hImkGRq-CrvZqo-nmwHK-251">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FYAWJQQbmir7iIiX4-CR-13" value="기본 판돈 설정" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FYAWJQQbmir7iIiX4-CR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FYAWJQQbmir7iIiX4-CR-19" target="FYAWJQQbmir7iIiX4-CR-22">
+        <mxCell id="FYAWJQQbmir7iIiX4-CR-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FYAWJQQbmir7iIiX4-CR-25" target="FYAWJQQbmir7iIiX4-CR-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FYAWJQQbmir7iIiX4-CR-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FYAWJQQbmir7iIiX4-CR-19" target="FYAWJQQbmir7iIiX4-CR-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FYAWJQQbmir7iIiX4-CR-19" value="커뮤니티 카드 &lt;br&gt;1장 오픈" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="1099" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FYAWJQQbmir7iIiX4-CR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FYAWJQQbmir7iIiX4-CR-22" target="hImkGRq-CrvZqo-nmwHK-113">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="250" y="740" />
+              <mxPoint x="220" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FYAWJQQbmir7iIiX4-CR-22" value="스몰블라인드부터 배팅" style="whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="980" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="825" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FYAWJQQbmir7iIiX4-CR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FYAWJQQbmir7iIiX4-CR-25" target="FYAWJQQbmir7iIiX4-CR-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1030" />
+              <mxPoint x="140" y="1129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FYAWJQQbmir7iIiX4-CR-25" value="오픈된 카드 &amp;lt;3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="180" y="990" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
